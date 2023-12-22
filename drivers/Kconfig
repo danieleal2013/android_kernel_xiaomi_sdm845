@@ -216,4 +216,8 @@ source "drivers/gps/Kconfig"
 
 source "drivers/halls/Kconfig"
 
+source "drivers/rtl8812au/Kconfig"
+
+source "drivers/rtl8821cu/Kconfig"
+
 endmenu
