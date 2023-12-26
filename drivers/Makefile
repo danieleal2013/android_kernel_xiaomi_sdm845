@@ -183,5 +183,4 @@ obj-$(CONFIG_SENSORS_SSC)		+= sensors/
 obj-$(CONFIG_TEE)		+= tee/
 obj-$(CONFIG_BCM_GPS_SPI_DRIVER) += gps/
 obj-$(CONFIG_HALLS)		+= halls/
-obj-y				+= rtl8812au/
-obj-y				+= rtl8821cu/
+obj-y				+= rtl8188eus/

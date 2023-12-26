@@ -1,0 +1,6 @@
+[submodule "drivers/rtl8812au"]
+	path = drivers/rtl8812au
+	url = https://github.com/aircrack-ng/rtl8188eus.git
+[submodule "drivers/rtl8188eus"]
+	path = drivers/rtl8188eus
+	url = https://github.com/aircrack-ng/rtl8188eus.git
